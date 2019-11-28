@@ -1,7 +1,7 @@
 ubcopenrobotics.ca website
 ===============
 
-This website is written in PHP. The programming language allows a standard approach at writting the website, reusing as much code as possible.
+This website is written in PHP. The programming language allows a standard approach at writing the website, reusing as much code as possible.
 All pages make calls to similar functions including header, navigation bar, footnote, and footer code which allows changes to common assets very easily.
 
 The website uses of Twitter Bootstrap (http://getbootstrap.com), which cuts down on the amount of CSS and JavaScript files
